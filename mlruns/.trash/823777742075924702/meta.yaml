@@ -1,0 +1,7 @@
+artifact_location: file:///home/alrxkali/Development/Tumor_Detection/mlruns/823777742075924702
+creation_time: 1674337888033
+experiment_id: '823777742075924702'
+last_update_time: 1674339655636
+lifecycle_stage: active
+name: avasure_classification_model
+tags: {}

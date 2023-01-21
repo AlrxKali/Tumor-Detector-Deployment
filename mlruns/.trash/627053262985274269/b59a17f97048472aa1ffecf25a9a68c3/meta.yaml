@@ -1,0 +1,15 @@
+artifact_uri: file:///home/alrxkali/Development/Tumor_Detection/mlruns/627053262985274269/b59a17f97048472aa1ffecf25a9a68c3/artifacts
+end_time: 1674341016480
+entry_point_name: ''
+experiment_id: '627053262985274269'
+lifecycle_stage: active
+run_id: b59a17f97048472aa1ffecf25a9a68c3
+run_name: vgg16_model_experiment
+run_uuid: b59a17f97048472aa1ffecf25a9a68c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674340986458
+status: 3
+tags: []
+user_id: alrxkali
