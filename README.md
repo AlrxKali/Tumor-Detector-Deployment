@@ -39,7 +39,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 
 # <a id='env'>2. Methodology for this project</a>
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213964743-5f399f57-867f-4f67-8e85-99d64da8c19f.png)
 
 1. First, we will integrate our model into MLFlow to conduct experiments. 
 2. After selecting the best experiment, we will store it in a Docker container.
