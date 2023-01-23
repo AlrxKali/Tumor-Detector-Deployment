@@ -55,21 +55,17 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Brain_tumor)
 It is an open-source machine-learning platform created by Databricks. It manages the entire ML lifecycle (from inception to production) and is designed to work with any Machine Learning library.
 We ran two experiments:
 
-![image.png](attachment:image.png)
+![Screenshot 2023-01-21 181516](https://user-images.githubusercontent.com/55760198/213964855-0d358af7-19f3-4f7d-b99a-162688d6117c.png)
 
 We selected the experiment with the best accuracy and prepared to store it and push it to AmazonECR. We can find the information needed inside the model:
 
-![image.png](attachment:image.png)
+![Screenshot 2023-01-21 181711](https://user-images.githubusercontent.com/55760198/213964884-b713358c-6085-4563-869a-fa1f9602ad43.png)
 
-![image.png](attachment:image.png)
+![Screenshot 2023-01-22 093424](https://user-images.githubusercontent.com/55760198/213964900-deaa7911-605d-4ed5-9ec3-518e4ea28dee.png)
 
 The container in AmazonECR is ready to deploy on Amazon SageMaker. From there, we can create the endpoints we will use to access the model.
 
-![image.png](attachment:image.png)
-
-Check the application by accessing the following link:
-
-Project URL: [Tumor-Detection-app](https://en.wikipedia.org/wiki/Brain_tumor)
+![Screenshot 2023-01-22 124350](https://user-images.githubusercontent.com/55760198/213964935-74237277-3849-48dd-b84e-d1baa4d7131e.png)
 
 # <a id='test'>4. Testing the model</a>
 
