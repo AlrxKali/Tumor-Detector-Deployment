@@ -67,25 +67,28 @@ The container in AmazonECR is ready to deploy on Amazon SageMaker. From there, w
 
 ![Screenshot 2023-01-22 124350](https://user-images.githubusercontent.com/55760198/213964935-74237277-3849-48dd-b84e-d1baa4d7131e.png)
 
+![Screenshot 2023-01-22 165740](https://user-images.githubusercontent.com/55760198/213965055-2df38ffc-14f5-4df9-b8e7-733085bfaa81.png)
+
+
 # <a id='test'>4. Testing the model</a>
 
 I have built a web application in which we can submit images to the API and classify it. It is a simple web app with two endpoints (GET, POST) to handle the transfer of information in a friendly-user approach. 
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213965129-6cf70724-ff59-44de-ae08-6974d8020acf.png)
 
 We uploaded a brain radiography and hit enter:
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213965188-b7b85a4f-f6d1-4748-b44c-1c46f2b8e226.png)
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213965224-657d41a5-b5d9-41d7-898f-1ace699dda0d.png)
 
 Running another a second test:
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213965255-78b2158e-3e67-4777-aff3-79539b5a21ce.png)
 
 Running a third test:
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/55760198/213965284-d07b1b83-8106-4f97-8a4c-75c97d342e4c.png)
 
 
 ```python
