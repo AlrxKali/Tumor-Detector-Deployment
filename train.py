@@ -54,7 +54,7 @@ def train():
             input_shape=IMG_SIZE + (3,)
         )
 
-        NUM_CLASSES = 1
+        NUM_CLASSES = 2
 
         model = Sequential()
         model.add(base_model)
